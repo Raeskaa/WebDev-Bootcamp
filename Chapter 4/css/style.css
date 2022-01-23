@@ -1,0 +1,131 @@
+
+/* display: none - the object disappears and just feels like it doesn't exist
+   visibility: hidden - the object disappears but the space is occupie */
+/* display: block - it takes up the whole space- we can edit the width
+   display: inline- ( we loose the ability to change the width)- doesnt takes up the whole space
+   display : inline-block - doesnt takes up the whole space and we can also change the width */
+/* position
+a) relative - it fixes its position and moves relative to its original position -props- top bottom left right
+b) absolute- moves relative to the actual page ( no ghost space lect)- the whole element will move
+c) fixed- the block whill be fixed relative to the webpage  - like how we need sometimes for navbars */
+
+*{
+  margin:0;
+   padding:0;
+}
+body{
+  color: #40514E;
+  background-color: #E4F9F5;
+  text-align: center;
+}
+h1{
+  font-size: 5.625rem;     /* 16px= 100% =1em */
+  margin: 0 auto 0 auto;
+  color: #30E3CA;
+  font-family: 'Caveat', cursive;
+}
+p{
+  font-size: 16px;
+}
+.Heading-2{
+  font-size: 2.5rem;
+  color: #40514E;
+  font-weight: normal;
+}
+h2, h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #30E3CA;
+  padding: 0 0 20px 0;
+}
+.top-cloud{
+  position: absolute;
+  top: 15%;
+  left: 60%;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 30%;
+  left: 25%;
+}
+.first-container{
+  padding-top: 200px;
+}
+.profile-img{
+  margin-bottom: 100px;
+}
+.skill-row{
+  width: 80%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.image1, .image3 ,.image5{
+  width: 50%;
+  float: left;
+  margin: auto 50px auto 0;
+  border-radius: 5%;
+}
+.image2, .image4 {
+  width: 50%;
+  float: right;
+  margin: auto 0 auto 50px;
+  border-radius: 5%;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 10%;
+  margin: 0 auto 20px auto;
+}
+.profile{
+  margin: 20px auto 50px auto;
+  width: 50%;
+}
+.bottom-container{
+  background-color: #30E3CA;
+  padding: 30px 0 10px 0;
+}
+.footer-link{
+  text-decoration: none;
+  margin: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #40514E;
+}
+.copyright{
+  color: #fff;
+  font-size: 0.9em;
+  margin-top: 10px;
+  font-weight:normal;
+}
+.btn{
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-decoration: none;
+  width: 110px;
+  padding: 10px 20px;
+  margin: 15px auto;
+}
+.btn:hover{
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  text-decoration: none;
+}
+.btn-{
+  text-decoration: none;
+  font-weight: bold;
+  color:  #40514E;
+}
