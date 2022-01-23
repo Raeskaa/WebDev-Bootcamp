@@ -1,0 +1,18 @@
+body{
+  background-color: #EAFFD0;
+}
+h1{
+  color: red;
+}
+img:hover {
+  background-color: gold;
+}
+
+.bacon{
+  background-color: red;
+  border-radius: 50%
+}
+.brocoli{
+  background-color: green;
+  border-radius: 50%;
+}
