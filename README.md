@@ -5,6 +5,7 @@
 
 Sites are built using [GitHub Pages](https://pages.github.com/).
 
-###### Day-1 website link: https://raeskaa.github.io/Portfolio-Day-1/ 
-###### Day-2 website link: https://raeskaa.github.io/Portfolio-Day2/ 
-###### Day-3 website link: https://raeskaa.github.io/Imtiaz-Ali-Day3/
+###### Day-1 website link: https://raeskaa.github.io/Portfolio-Day-1/  ( HTML )
+###### Day-2 website link: https://raeskaa.github.io/Portfolio-Day2/   ( HTML )
+###### Day-3 website link: https://raeskaa.github.io/Imtiaz-Ali-Day3/  ( HTML/CSS )
+###### Day-4 website link: https://raeskaa.github.io/tindog/           ( HTML/CSS/Bootstrap/Tailwind )
