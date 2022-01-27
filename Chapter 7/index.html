@@ -5,25 +5,27 @@
     <meta charset="utf-8">
     <title>Dicee</title>
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster" rel="stylesheet">
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Source+Sans+Pro&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
     <div class="container">
-        <h1>Refresh Me</h1>
-
-        <div class="dice">
-            <p>Player 1</p>
-            <img class="img1" src="">
+        <div class="header-title">
+            <h1>Dice-Roll Game</h1>
+            <button onclick="butTon()">PLAY</button>
         </div>
-
-        <div class="dice">
-            <p>Player 2</p>
-            <img class="img2" src="">
+        <div class="dice-roll">
+            <div class="dice">
+                <p>Player One</p>
+                <img class="img1 dice-img" src="images/dice6.png">
+            </div>
+            <div class="dice">
+                <p>Player Two</p>
+                <img class="img2 dice-img" src="images/dice6.png">
+            </div>
         </div>
-
     </div>
     <script src="script.js"></script>
 </body>
