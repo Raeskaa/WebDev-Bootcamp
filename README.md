@@ -24,6 +24,6 @@ _[Resource Link](https://docs.google.com/document/d/1ug1kzUcebpr21s6XhDCcuA3hE0c
 ###### Day-5 website [link](https://raeskaa.github.io/Dice-Game/)
 
 > Tech used- HTML/CSS/Javascript
-###### Day-6 website [linnk](https://raeskaa.github.io/Drums/)
+###### Day-6 website [link](https://raeskaa.github.io/Drums/)
 
 >Tech used - HTML/CSS/Javascript( DOM and Advanced JS)
