@@ -3,7 +3,6 @@
 ## Full-stack Developer Challange.
 
 _[Resource Link](https://docs.google.com/document/d/e/2PACX-1vRfrIHUkyhUf0iErbc-0rPPNYp89VLPqTO8YIAGveUbtMw4r-pIlXDzhkP-gcyS9XW8rLs-dKovslhC/pub)_
-[GitHub Pages](https://pages.github.com/)
 
 ###### Day-1 website [link](https://raeskaa.github.io/Portfolio-Day-1/)
 
@@ -29,3 +28,4 @@ _[Resource Link](https://docs.google.com/document/d/e/2PACX-1vRfrIHUkyhUf0iErbc-
 >Tech used - HTML/CSS/Javascript( DOM and Advanced JS)
 
 ###### For more javascript projects [link](https://github.com/Raeskaa/Ten-js-Projectss)
+
